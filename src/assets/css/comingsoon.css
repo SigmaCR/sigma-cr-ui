@@ -10,7 +10,7 @@ body {background:url(../img/pattern.png) repeat center 0 #fff;}
 .comingsoonBlk h1 {line-height: 60px; margin:0}
 .comingsoonBlk p {margin: 0 0 14px;}
 .searchbox{text-align:center; padding-bottom:18px;}
-.miniSearchbox{  max-width:350px; text-align:center; min-height:50px;  margin-left: 40px;}
+.miniSearchbox{  max-width:350px; text-align:center; min-height:50px;}
 .miniSearchbox .txt{float:left; width: 70%;}
 .miniSearchbox .subscribe{float:right; width: 30%;}
 .copyright{padding-top:100px; color:#444; text-align:center}
