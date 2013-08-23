@@ -19,7 +19,7 @@ $(function () {
             min: 0,
             max: 10,
             title: {
-                text: 'Sigman Score',
+                text: 'Sigma Score',
                 align: 'high'
             },
             labels: {

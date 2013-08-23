@@ -56,7 +56,7 @@ $(function () {
         series: [{
             showInLegend:false,
             name: ' ',
-            data: [{y:7,color:'green'}, 6.5, 4.6, {y:9,color:'green'},{y:2,color:'red'}, 5.5] ,
+            data: [{y:7,color:'#52D017'},{y:6.5,color:'#008080'}, {y:4.6,color:'#008080'}, {y:9,color:'#52D017'},{y:2,color:'#F75D59'},{y:5.5, color:'#008080'}] ,
             pointWidth: 20
 
         }]
